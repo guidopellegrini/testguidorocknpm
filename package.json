@@ -1,0 +1,14 @@
+{
+  "name": "common-library-guidorock",
+  "version": "0.0.1",
+  "description": "Prueba 01",
+  "keywords": ["probando test no usar"],
+  "homepage": "",
+  "peerDependencies": {
+    "@angular/common": "^12.2.0",
+    "@angular/core": "^12.2.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  }
+}
