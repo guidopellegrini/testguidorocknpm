@@ -5,5 +5,7 @@ import { Injectable } from '@angular/core';
 })
 export class CommonLibraryService {
 
-  constructor() { }
+  constructor() {
+    console.log('Common Library Service ACTUALIZADA');
+   }
 }
